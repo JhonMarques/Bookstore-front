@@ -1,7 +1,7 @@
 .home {
     width: 95%;
     margin: 1rem auto;
-    background-color:  rgb(166, 181, 250);
+    background-color:rgb(192, 194, 204);
 }
 
 @media(max-width: 450px) {

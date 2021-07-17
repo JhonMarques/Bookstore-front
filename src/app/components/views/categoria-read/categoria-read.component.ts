@@ -1,6 +1,4 @@
-/* eslint-disable no-console */
-/* eslint-disable @typescript-eslint/explicit-function-return-type */
-/* eslint-disable @angular-eslint/component-selector */
+
 import { Component, OnInit } from "@angular/core";
 import { Router } from "@angular/router";
 import { Categoria } from "../categoria/categoria.model";
